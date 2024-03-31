@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently studying on **Universidad Peruana de Ciencias Aplicadas**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **gaelrszk@gmail.com**
 
