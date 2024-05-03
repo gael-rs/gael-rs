@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gael-rs&label=Profile%20views&color=0e75b6&style=flat" alt="gael-rs" /> </p>
 
-- 💡 I'm **17** years old
+- 💡 I'm **18** years old
 
 - 🔭 I'm currently studying on **Universidad Peruana de Ciencias Aplicadas**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **gaelrszk@gmail.com**
 
