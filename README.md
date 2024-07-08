@@ -8,11 +8,11 @@
 
 - 🔭 I'm currently studying on **Universidad Peruana de Ciencias Aplicadas**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Cibersecurity**
 
 - 📫 How to reach me **gaelrszk@gmail.com**
 
-- ⚡ Fun fact **Besides my interest in backend development, I love cooking and experimenting with new recipes.**
+- ⚡ Fun fact **Besides my interest in cibersecurity, I love cooking and experimenting with new recipes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
