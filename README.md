@@ -1,6 +1,6 @@
 ![MasterHead](https://art.pixilart.com/77ad4e82f96a64b.gif)
 <h1 align="center">Hi 👋, I'm Gael Rivera</h1>
-<h3 align="center">A passionate backend student from Peru</h3>
+<h3 align="center">A passionate student from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gael-rs&label=Profile%20views&color=0e75b6&style=flat" alt="gael-rs" /> </p>
 
