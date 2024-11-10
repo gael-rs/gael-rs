@@ -1,4 +1,6 @@
-![MasterHead](https://art.pixilart.com/77ad4e82f96a64b.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" alt="MasterHead" />
+</div>
 <h1 align="center">Hi 👋, I'm Gael Rivera</h1>
 <h3 align="center">A passionate student from Peru</h3>
 
