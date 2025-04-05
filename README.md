@@ -28,20 +28,21 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,mysql,mongodb,sqlite" alt="Development Tools" />
 </p>
 
-📌 Workflow & Productivity
+### 📌 Workflow & Productivity
 <p> <img src="https://skillicons.dev/icons?i=vscode,notion,figma,git" alt="Workflow & Productivity Tools" /> </p>
 
 ## 📬 Contact Me
 
 - 📧 Email: [gaelrszk@gmail.com](mailto:gaelrszk.wrk@gmail.com)
-- 💼 LinkedIn: [Gael Rivera](https://www.linkedin.com/in/eduardo-gael-rivera)
-- 🐙 GitHub: [GaelRivera](https://github.com/gael-rs)
+- 💼 LinkedIn: [eduardo-gael-rivera](https://www.linkedin.com/in/eduardo-gael-rivera)
+- 🐙 GitHub: [gael-rs](https://github.com/gael-rs)
+- 🖼️ Instagram: [gael_rivera_s](https://www.instagram.com/gael_rivera_s/)
 - 🎮 Discord: `z.kaizen`
 
 ## 🌍 Connect with Me
 <p>
   <a href="https://linkedin.com/in/eduardo-gael-rivera" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/gael_r_z" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://instagram.com/gael_rivera_s" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
   <a href="https://x.com/zKaizen_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
 </p>
 
