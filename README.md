@@ -20,7 +20,7 @@
 
 ### 🛡️ Cybersecurity
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,kali,python,docker" alt="Cybersecurity Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,kali,python" alt="Cybersecurity Tools" />
 </p>
 
 ### 💻 Development
@@ -29,7 +29,7 @@
 </p>
 
 ### 📌 Workflow & Productivity
-<p> <img src="https://skillicons.dev/icons?i=azure, docker,firebase,vscode,notion,figma,git" alt="Workflow & Productivity Tools" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=azure,firebase,vscode,notion,figma,git" alt="Workflow & Productivity Tools" /> </p>
 
 ## 📬 Contact Me
 
