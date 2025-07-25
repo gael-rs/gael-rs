@@ -20,16 +20,16 @@
 
 ### 🛡️ Cybersecurity
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,docker" alt="Cybersecurity Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,python,docker" alt="Cybersecurity Tools" />
 </p>
 
 ### 💻 Development
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,mysql,mongodb,sqlite" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,angular,java,vite,vue,cs,tailwind,mysql,mongodb,sqlite,postgres,spring" alt="Development Tools" />
 </p>
 
 ### 📌 Workflow & Productivity
-<p> <img src="https://skillicons.dev/icons?i=vscode,notion,figma,git" alt="Workflow & Productivity Tools" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=azure, docker,firebase,vscode,notion,figma,git" alt="Workflow & Productivity Tools" /> </p>
 
 ## 📬 Contact Me
 
