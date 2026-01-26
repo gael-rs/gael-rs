@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Gael Rivera</h1>
 <h3 align="center">Software Developer | AI-Assisted Development | 1x Hackathon Winner | Secure Systems</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,docker" alt="Cybersecurity Tools" />
-</p>
-
 ## 👨‍💻 About Me
 
 I'm a software developer with a strong interest in building practical, scalable systems using an AI-assisted approach.
