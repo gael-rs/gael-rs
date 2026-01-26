@@ -2,19 +2,19 @@
   <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" alt="MasterHead" />
 </div>
 <h1 align="center">Hi 👋, I'm Gael Rivera</h1>
-<h3 align="center">Cybersecurity Enthusiast | Red Team | Ethical Hacking</h3>
+<h3 align="center">Software Developer | AI-Assisted Development | 1x Hackathon Winner | Secure Systems</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,docker" alt="Cybersecurity Tools" />
 </p>
 
-## 🛡️ About Me
+## 👨‍💻 About Me
 
-- 🔍 Passionate about **offensive security & ethical hacking**.
-- 🎯 Focused on **penetration testing, vulnerability analysis, and exploit development**.
-- 🏴‍☠️ Exploring **Red Team tactics and advanced cyber threats**.
-- 🎓 Currently studying **Software Engineering** at UPC.
-- 💡 I also work with **full-stack development using modern tools and frameworks.**
+I'm a software developer with a strong interest in building practical, scalable systems using an AI-assisted approach.
+
+I focus on understanding the problem first, then designing clean and maintainable solutions through automation, data processing, and intelligent systems. I've worked on startups, hackathons, and freelance projects where I built full-stack applications, dashboards, APIs, and AI-powered features.
+
+I also have a background in cybersecurity, which allows me to develop software with a security-by-design mindset rather than treating security as an afterthought.
 
 ## 🛠️ Technologies & Tools
 
