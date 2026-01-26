@@ -25,7 +25,7 @@
 
 ### 💻 Development
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,angular,java,vite,vue,cs,tailwind,mysql,mongodb,sqlite,postgres,spring" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,angular,react,nextjs,java,vite,vue,cs,tailwind,mysql,mongodb,sqlite,postgres,spring" alt="Development Tools" />
 </p>
 
 ### 📌 Workflow & Productivity
