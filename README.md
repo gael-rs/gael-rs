@@ -2,26 +2,26 @@
   <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" alt="MasterHead" />
 </div>
 <h1 align="center">Hi 👋, I'm Gael Rivera</h1>
-<h3 align="center">Software Developer | AI-Assisted Development | 1x Hackathon Winner | Secure Systems</h3>
+<h3 align="center">⚡ AI-Native Full Stack Developer | ReactJS • Next.js • TypeScript | Scalable & Secure Systems</h3></h3>
 
 ## 👨‍💻 About Me
 
-I'm a software developer with a strong interest in building practical, scalable systems using an AI-assisted approach.
+I'm an AI-Native Full Stack Developer focused on building scalable, maintainable, and production-ready web applications using ReactJS, Next.js, TypeScript, and PostgreSQL.
 
-I focus on understanding the problem first, then designing clean and maintainable solutions through automation, data processing, and intelligent systems. I've worked on startups, hackathons, and freelance projects where I built full-stack applications, dashboards, APIs, and AI-powered features.
+I have experience developing real-world systems that integrate payments, automation workflows, REST APIs, and AI-powered features. I prioritize clean architecture, code quality, and performance while keeping scalability and security in mind.
 
-I also have a background in cybersecurity, which allows me to develop software with a security-by-design mindset rather than treating security as an afterthought.
+With a background in cybersecurity, I apply a security-by-design mindset to the systems I build.
 
 ## 🛠️ Technologies & Tools
-
-### 🛡️ Cybersecurity
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash,kali,python" alt="Cybersecurity Tools" />
-</p>
 
 ### 💻 Development
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,angular,react,nextjs,java,spring,vite,vue,cs,tailwind,flutter,kotlin,mysql,mongodb,sqlite,postgres,supabase,firebase" alt="Development Tools" />
+</p>
+
+### 🛡️ Cybersecurity
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,kali,python" alt="Cybersecurity Tools" />
 </p>
 
 ### 📌 Workflow & Productivity
